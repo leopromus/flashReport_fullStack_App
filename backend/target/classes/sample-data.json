@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "email": "admin@flashreport.com",
+      "firstname": "Admin",
+      "lastname": "User",
+      "password": "$2a$10$dXJ3SW6G7P50lGmMkkmwe.20cQQubK3.HZWzG3YB1tlRy.fqvM/BG",
+      "phoneNumber": "1234567890",
+      "role": "ADMIN",
+      "username": "admin"
+    }
+    
+  ],
+  "reports": [
+    {
+      "title": "Contract Bid Rigging",
+      "type": "RED_FLAG",
+      "location": "-1.2921,36.8219",
+      "status": "UNDER_INVESTIGATION",
+      "comment": "Evidence of bid rigging in government contract. Multiple contractors involved in price fixing scheme.",
+      "createdOn": "2024-03-14T10:30:00",
+      "username": "johndoe",
+      "images": ["evidence/img1.jpg", "evidence/img2.jpg"],
+      "videos": []
+    },
+    {
+      "title": "Hospital Crisis",
+      "type": "INTERVENTION",
+      "location": "-1.2864,36.8172",
+      "status": "DRAFT",
+      "comment": "Local hospital lacks essential medical supplies. Emergency room severely understaffed.",
+      "createdOn": "2024-03-14T11:15:00",
+      "username": "johndoe",
+      "images": [],
+      "videos": []
+    },
+    {
+      "title": "Forest Protection Violation",
+      "type": "RED_FLAG",
+      "location": "-1.2855,36.8226",
+      "status": "RESOLVED",
+      "comment": "Illegal logging activity in protected forest. Multiple trucks observed without permits.",
+      "createdOn": "2024-03-14T09:45:00",
+      "username": "johndoe",
+      "images": ["evidence/forest1.jpg"],
+      "videos": []
+    },
+    {
+      "title": "School Infrastructure",
+      "type": "INTERVENTION",
+      "location": "-1.2925,36.7809",
+      "status": "UNDER_INVESTIGATION",
+      "comment": "School building requires urgent repairs. Roof leaking, walls cracking.",
+      "createdOn": "2024-03-14T14:20:00",
+      "username": "janesmith",
+      "images": [],
+      "videos": []
+    },
+    {
+      "title": "Election Fraud",
+      "type": "RED_FLAG",
+      "location": "-1.2903,36.8228",
+      "status": "DRAFT",
+      "comment": "Election officials accepting bribes at polling station. Video evidence available.",
+      "createdOn": "2024-03-14T13:10:00",
+      "username": "janesmith",
+      "images": ["evidence/election1.jpg"],
+      "videos": ["evidence/election_video1.mp4"]
+    },
+    {
+      "title": "Water Crisis",
+      "type": "INTERVENTION",
+      "location": "-1.2975,36.8085",
+      "status": "REJECTED",
+      "comment": "Water supply contamination in residential area. Health hazard for 1000+ residents.",
+      "createdOn": "2024-03-14T15:45:00",
+      "username": "janesmith",
+      "images": [],
+      "videos": []
+    },
+    {
+      "title": "Police Misconduct",
+      "type": "RED_FLAG",
+      "location": "-1.2844,36.8232",
+      "status": "UNDER_INVESTIGATION",
+      "comment": "Police brutality during peaceful protest. Multiple witnesses and video evidence.",
+      "createdOn": "2024-03-14T12:30:00",
+      "username": "johndoe",
+      "images": ["evidence/police1.jpg"],
+      "videos": ["evidence/police_incident.mp4"]
+    },
+    {
+      "title": "Road Safety Hazard",
+      "type": "INTERVENTION",
+      "location": "-1.2921,36.8219",
+      "status": "DRAFT",
+      "comment": "Dangerous road conditions causing accidents. Multiple potholes and poor lighting.",
+      "createdOn": "2024-03-14T16:00:00",
+      "username": "johndoe",
+      "images": [],
+      "videos": []
+    }
+  ]
+} 

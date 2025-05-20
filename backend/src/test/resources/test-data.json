@@ -1,0 +1,44 @@
+{
+    "reports": [
+        {
+            "title": "Corruption in License Office",
+            "type": "RED_FLAG",
+            "location": "6.5244,3.3792",
+            "comment": "Officials demanding bribes for processing driver's licenses",
+            "images": [],
+            "videos": []
+        },
+        {
+            "title": "Bridge Needs Repair",
+            "type": "INTERVENTION",
+            "location": "6.4281,3.4219",
+            "comment": "Major structural damage on Third Mainland Bridge needs urgent attention",
+            "images": [],
+            "videos": []
+        },
+        {
+            "title": "Police Extortion at Checkpoint",
+            "type": "RED_FLAG",
+            "location": "6.6018,3.3515",
+            "comment": "Police officers extorting money from motorists at Lekki checkpoint",
+            "images": [],
+            "videos": []
+        },
+        {
+            "title": "Damaged Road in Residential Area",
+            "type": "INTERVENTION",
+            "location": "6.5143,3.3912",
+            "comment": "Large potholes causing accidents and damage to vehicles",
+            "images": [],
+            "videos": []
+        },
+        {
+            "title": "School Fund Misappropriation",
+            "type": "RED_FLAG",
+            "location": "6.4698,3.5852",
+            "comment": "Evidence of misuse of school renovation funds",
+            "images": [],
+            "videos": []
+        }
+    ]
+} 
